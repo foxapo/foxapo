@@ -1,6 +1,8 @@
+## <img src="./images/unity.svg" alt="Unity" style="height: 14px; width:14px; filter: invert(48%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Unity Engine
+- Primarily work as **Unity Developer**
 
-- [[https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png]]
-- ⚡ Lead Developer of Stalker Survival DayZ server
+## <img src="./images/dayz.png" alt="DayZ circle logo" style="height: 14px; width:14px;" /> DayZ
+- Hobby DayZ modding and also creator of CRDTN mods
 
 <!-- 
 
