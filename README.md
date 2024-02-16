@@ -2,7 +2,7 @@
   <img src="./images/ssurv_logo.png" alt="DayZ circle logo" width="50%" style="max-width: 100%; object-fit: contain;">
 </div>
 
-<p align="center">Lead Developer at Stalker Survival | Unity Developer | .NET & C#</p>
+<p align="center">Lead Developer at Stalker Survival | Full-time Unity Developer | .NET & C#</p>
 
 <table>
   <tr >
