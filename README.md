@@ -31,5 +31,5 @@
   </tr>
 </table>
 
-[![Freeman's github stats](https://github-readme-stats.vercel.app/api?username=foxapo)](https://github.com/foxapo)
+[![Freeman's github stats](https://github-readme-stats.vercel.app/api?username=foxapo&count_private=true&show_icons=true&theme=onedark)](https://github.com/foxapo)
 
