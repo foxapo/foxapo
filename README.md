@@ -30,3 +30,6 @@
     <td>C# is my primary programming language for developing robust and scalable applications. I appreciate its clear syntax and the powerful features provided by the .NET framework.</td>
   </tr>
 </table>
+
+[![Freeman's github stats](https://github-readme-stats.vercel.app/api?username=foxapo)](https://github.com/foxapo)
+
